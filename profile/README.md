@@ -34,3 +34,10 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | Repository | Description | Documentation |
 |------------|-------------|---------------|
 | [csolution-examples](https://github.com/Open-CMSIS-Pack/csolution-examples) | A collection of exemplary csolution-based projects. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/csolution-examples) file. |
+
+
+### Visual Studio Code
+
+| Repository | Description | Documentation |
+|------------|-------------|---------------|
+| [vscode-get-started](https://github.com/Open-CMSIS-Pack/vscode-get-started) | Setup of VS Code environment along wiht an example project. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/vscode-get-started) file. |
