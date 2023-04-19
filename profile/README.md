@@ -22,6 +22,25 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | [gen-pack-action](https://github.com/Open-CMSIS-Pack/gen-pack-action) | A GitHub workflow action generating documentation and Open-CMSIS-Packs. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/gen-pack-action) file. |
 | [vidx2pidx](https://github.com/Open-CMSIS-Pack/vidx2pidx) | A package index generator. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/vidx2pidx) file. |
 
+### Examples
+
+| Repository | Description | Documentation |
+|------------|-------------|---------------|
+| [csolution-examples](https://github.com/Open-CMSIS-Pack/csolution-examples) | A collection of exemplary csolution-based projects. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/csolution-examples) file. |
+
+### Visual Studio Code
+
+| Repository | Description | Documentation |
+|------------|-------------|---------------|
+| [vscode-get-started](https://github.com/Open-CMSIS-Pack/vscode-get-started) | Setup of VS Code environment along wiht an example project. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/vscode-get-started) file. |
+
+### Create Software Packs
+
+| Repository | Description | Documentation |
+|------------|-------------|---------------|
+| [SW-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/SW-Pack-HandsOn) | Explains the steps to create a simple software pack. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/SW-Pack-HandsOn) file. |
+
+
 ### Tools Source Code
 
 | Repository | Description | Documentation |
@@ -29,15 +48,5 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | [devtools](https://github.com/Open-CMSIS-Pack/devtools) | Development repo of these command line tools: [packchk](https://github.com/Open-CMSIS-Pack/devtools/tree/main/tools/packchk), [packgen](https://github.com/Open-CMSIS-Pack/devtools/tree/main/tools/packgen), csloution ([projmgr](https://github.com/Open-CMSIS-Pack/devtools/tree/main/tools/projmgr)), and cbuild ([buildmgr](https://github.com/Open-CMSIS-Pack/devtools/tree/main/tools/buildmgr)). | Contains the specification of the [csolution project format](https://github.com/Open-CMSIS-Pack/devtools/blob/main/tools/projmgr/docs/Manual/Overview.md) and related files. |
 | [cpackget](https://github.com/Open-CMSIS-Pack/cpackget) | Source code repository of the cpackget tool (part of the CMSIS-Toolbox) | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/cpackget) file. |
 
-### Examples
-
-| Repository | Description | Documentation |
-|------------|-------------|---------------|
-| [csolution-examples](https://github.com/Open-CMSIS-Pack/csolution-examples) | A collection of exemplary csolution-based projects. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/csolution-examples) file. |
 
 
-### Visual Studio Code
-
-| Repository | Description | Documentation |
-|------------|-------------|---------------|
-| [vscode-get-started](https://github.com/Open-CMSIS-Pack/vscode-get-started) | Setup of VS Code environment along wiht an example project. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/vscode-get-started) file. |
