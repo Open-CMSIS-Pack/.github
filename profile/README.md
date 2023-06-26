@@ -39,6 +39,8 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | Repository | Description | Documentation |
 |------------|-------------|---------------|
 | [SW-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/SW-Pack-HandsOn) | Explains the steps to create a simple software pack. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/SW-Pack-HandsOn) file. |
+| [DFP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn) | Explains the steps to create a device family pack. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn) file. |
+| [BSP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn) | Explains the steps to create a board support pack. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn) file. |
 
 
 ### Tools Source Code
