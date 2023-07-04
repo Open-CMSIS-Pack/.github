@@ -17,7 +17,7 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 
 | Repository | Description | Documentation |
 |------------|-------------|---------------|
-| [CMSIS-Toolbox](https://github.com/Open-CMSIS-Pack/cmsis-toolbox) | A set of command-line tools for software packs. | The [documentation](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/installation.md) explains the download, installation, and configuration process. |
+| [CMSIS-Toolbox](https://github.com/Open-CMSIS-Pack/cmsis-toolbox) | A set of command-line tools for software packs. | The [documentation](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/README.md) explains the download, installation, and configuration process. |
 | [gen-pack](https://github.com/Open-CMSIS-Pack/gen-pack) | A library for scripts creating Open-CMSIS-Packs. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/gen-pack) file. |
 | [gen-pack-action](https://github.com/Open-CMSIS-Pack/gen-pack-action) | A GitHub workflow action generating documentation and Open-CMSIS-Packs. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/gen-pack-action) file. |
 | [vidx2pidx](https://github.com/Open-CMSIS-Pack/vidx2pidx) | A package index generator. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/vidx2pidx) file. |
