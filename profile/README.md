@@ -42,6 +42,13 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | [DFP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn) | Explains the steps to create a device family pack. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn) file. |
 | [BSP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn) | Explains the steps to create a board support pack. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn) file. |
 
+### Pack Examples
+
+| Repository | Description | Documentation |
+|------------|-------------|---------------|
+| [Pack Examples](https://github.com/Open-CMSIS-Pack/pack-examples) | Examples of DFPs and BSP (mainly for STM32 devices/baords)  | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/pack-examples) file. |
+| [lwIP](https://github.com/Open-CMSIS-Pack/lwIP) | lwIP Network Stack. | . |
+| [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | Shim layers convert STM32HAL to CMSIS-Driver for MDK Middleware. | . |
 
 ### Tools Source Code
 
