@@ -49,6 +49,14 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | [Pack Examples](https://github.com/Open-CMSIS-Pack/pack-examples) | Examples of DFPs and BSP (mainly for STM32 devices/baords)  | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/pack-examples) file. |
 | [lwIP](https://github.com/Open-CMSIS-Pack/lwIP) | lwIP Network Stack. | . |
 | [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | Shim layers convert STM32HAL to CMSIS-Driver for MDK Middleware. | . |
+| [NXP_iMXRT105x_MWP](https://github.com/Open-CMSIS-Pack/NXP_iMXRT105x_MWP) | NXP i.MXRT1051/1052 Device Series Middleware examples and CMSIS-Drivers Pack  | https://open-cmsis-pack.github.io/NXP_iMXRT105x_MWP |
+| [NXP_IMXRT1050-EVKB_BSP](https://github.com/Open-CMSIS-Pack/NXP_IMXRT1050-EVKB_BSP) | NXP IMXRT1050-EVKB Board Support Pack | TBD |
+| [ST_B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | STMicroelectronics ST_B-U585I-IOT02A Board Support Pack | https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP/tree/main/Documents#readme|
+| [STM32H743I-Eval_BSP](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP) | STMicroelectronics STM32H743I-Eval Board Support Pack | TBD |
+| [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | STMicroelectronics STM32H7 Series Device Family Pack | TBD |
+| [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | STMicroelectronics STM32U5 Series Device Family Pack | TBD |
+| [STM32H7S78-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7S78-DK_BSP) | STMicroelectronics STM32H7S78-DK Board Support Pack | TBD |
+| [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | STMicroelectronics STM32H7RS Series Device Family Pack | TBD |
 
 ### Tools Source Code
 
