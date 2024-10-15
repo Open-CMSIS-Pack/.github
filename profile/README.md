@@ -48,7 +48,6 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | **DFP**    | [keil.arm.com/devices](https://www.keil.arm.com/devices/)  | Device Family Packs | 
 | [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
 | [STM32L4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L4xx_DFP) | [keil.arm.com/packs/stm32l4xx_dfp-keil](https://www.keil.arm.com/packs/stm32l4xx_dfp-keil) | STM32L4 Series |
-| [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
 | [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | [keil.arm.com/packs/stm32u5xx_dfp-keil](https://www.keil.arm.com/packs/stm32u5xx_dfp-keil) | STM32U5 Series |
 | [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | [keil.arm.com/packs/stm32h7xx_dfp-keil](https://www.keil.arm.com/packs/stm32h7xx_dfp-keil) | STM32H7 Series |
 | [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | [keil.arm.com/packs/stm32h7rsxx_dfp-keil](https://www.keil.arm.com/packs/stm32h7rsxx_dfp-keil) | STM32H7RS Series |
