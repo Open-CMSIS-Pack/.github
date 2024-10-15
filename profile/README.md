@@ -39,22 +39,58 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | [DFP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn) | Explains the steps to create a device family pack. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn). |
 | [BSP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn) | Explains the steps to create a board support pack. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn). |
 
-### CMSIS Software Pack Examples
+### STM32 Packs with Generator Support
+
+The following software packs support the [STM32CubeMX integration](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/CubeMX.md) of the CMSIS-Toolbox. These packs are compatible with uVision v5.40 or higher. The packs support Arm Compiler 6, GCC, and IAR. LLVM is not supported due to STM32CubeMX restrictions. Many Board Support Packs contain software layers for [MDK-Middleware](https://www.keil.arm.com/packs/mdk-middleware-keil/overview/); refer to the pack link for more information.
+
+| Repository | Pack Link   | Description  |
+|------------|-------------|--------------|
+| **DFP**    | [keil.arm.com/devices](https://www.keil.arm.com/devices/)  | Device Family Packs | 
+| [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
+| [STM32L4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L4xx_DFP) | [keil.arm.com/packs/stm32l4xx_dfp-keil](https://www.keil.arm.com/packs/stm32l4xx_dfp-keil) | STM32L4 Series |
+| [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
+| [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | [keil.arm.com/packs/stm32u5xx_dfp-keil](https://www.keil.arm.com/packs/stm32u5xx_dfp-keil) | STM32U5 Series |
+| [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | [keil.arm.com/packs/stm32h7xx_dfp-keil](https://www.keil.arm.com/packs/stm32h7xx_dfp-keil) | STM32H7 Series |
+| [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | [keil.arm.com/packs/stm32h7rsxx_dfp-keil](https://www.keil.arm.com/packs/stm32h7rsxx_dfp-keil) | STM32H7RS Series |
+| [STM32F7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F7xx_DFP) | [keil.arm.com/packs/stm32f7xx_dfp-keil](https://www.keil.arm.com/packs/stm32f7xx_dfp-keil) | STM32F7 Series |
+| **CMSIS-Driver**    | .  | Add CMSIS-Driver to DFP |
+| [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | [keil.arm.com/packs/cmsis-driver_stm32-arm](https://www.keil.arm.com/packs/cmsis-driver_stm32-arm) | Shim layers: STM32HAL to CMSIS-Driver |
+| **BSP**    | [keil.arm.com/boards](https://www.keil.arm.com/boards/)  | Board Support Packs |
+| STM32F4 | . | . |
+| [NUCLEO-F401RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F401RE_BSP) | [keil.arm.com/packs/nucleo-f401re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f401re_bsp-keil) | Nucleo Kit for STM32F401RE Series |
+| [NUCLEO-F412ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F412ZG_BSP) | [keil.arm.com/packs/nucleo-f412zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f412zg_bsp-keil) | Nucleo Kit for STM32F412ZG Series |
+| [NUCLEO-F446RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP) | [keil.arm.com/packs/nucleo-f446re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f446re_bsp-keil) | Nucleo Kit for STM32F446RE Series |
+| [STM32F469I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F469I-DISCO_BSP) | [keil.arm.com/packs/stm32f469i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f469i-disco_bsp-keil) | Discovery Kit for STM32F469I Series |
+| STM32L4 | . | . |
+| [B-L475E-IOT01A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-L475E-IOT01A_BSP) | [keil.arm.com/packs/b-l475e-iot01a_bsp-keil-keil](https://www.keil.arm.com/packs/b-l475e-iot01a_bsp-keil) | IoT Kit with STM32L475VGTx |
+| [NUCLEO-L476RG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L476RG_BSP) | [keil.arm.com/packs/nucleo-l476rg_bsp-keil](https://www.keil.arm.com/packs/nucleo-l476rg_bsp-keil) | Nucleo Kit for STM32L476RG Series |
+| [STM32L469G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L469G-DISCO_BSP) | [keil.arm.com/packs/stm32l469g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l469g-disco_bsp-keil) | Discovery Kit for STM32L469G Series |
+| [STM32L4R9I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-DISCO_BSP) | [keil.arm.com/packs/stm32l4R9i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-disco_bsp-keil) | Discovery Kit for STM32L4R9I Series |
+| STM32U5 | . | . |
+| [B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | [keil.arm.com/packs/b-u585i-iot02a_bsp-keil](https://www.keil.arm.com/packs/b-u585i-iot02a_bsp-keil) | IoT Kit with STM32U585AIIx |
+| STM32F7 | . | . |
+| [NUCLEO-F746ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP) | [keil.arm.com/packs/nucleo-f746zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f746zg_bsp-keil) | Nucleo Kit for STM32F746ZG Series |
+| [NUCLEO-F756ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F756ZG_BSP) | [keil.arm.com/packs/nucleo-f756zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f756zg_bsp-keil) | Nucleo Kit for STM32F756ZG Series |
+| [STM32F746G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F746G-DISCO_BSP) | [keil.arm.com/packs/stm32f746g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f746g-disco_bsp-keil) | Discovery Kit for STM32F746G Series |
+| [STM32F769I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-DISCO_BSP) | [keil.arm.com/packs/stm32f769i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-disco_bsp-keil) | Discovery Kit for STM32F769I Series |
+| [STM32F769I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-EVAL_BSP) | [keil.arm.com/packs/stm32f769i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-eval_bsp-keil) | Eval Kit for STM32F769I Series |
+| STM32H7 | . | . |
+| [NUCLEO-H743ZI2_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H743ZI2_BSP) | [keil.arm.com/packs/nucleo-h743zi2_bsp-keil](https://www.keil.arm.com/packs/nucleo-h743zi2_bsp-keil) | Nucleo Kit for STM32H743ZI Series |
+| [STM32H735G-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H735G-DK_BSP) | [keil.arm.com/packs/stm32h735g-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h735g-dk_bsp-keil) | Discover Kit for STM32H735G Series |
+| [STM32H745I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32H745I-DISCO_BSP) | [keil.arm.com/packs/stm32h745i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32h745i-disco_bsp-keil) | Discover Kit for STM32H745I Series |
+| [STM32H7B3I-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-DK_BSP) | [keil.arm.com/packs/stm32h7b3i-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-dk_bsp-keil) | Discover Kit for STM32H7B3I Series |
+| [STM32H743I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP) | [keil.arm.com/packs/stm32h743i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h743i-eval_bsp-keil) | Eval Kit for STM32H743I Series |
+| [STM32H7B3I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-EVAL_BSP) | [keil.arm.com/packs/stm32h7b3i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-eval_bsp-keil) | Eval Kit for STM32H7B3I Series |
+
+### More CMSIS Software Pack Examples
 
 | Repository | Description | Documentation |
 |------------|-------------|---------------|
 | [MDK-Middleware](https://github.com/ARM-software/MDK-Middleware) | Middelware for TCP/IP networking, File System, USB Device, USB Host with [reference applications](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/ReferenceApplications.md#mdk-middleware-reference-applications).| [User's Manual](https://arm-software.github.io/MDK-Middleware/latest/General/index.html) |
 | [Sensor SDK](https://github.com/Open-CMSIS-Pack/Sensor-SDK-Example) | Example of sensor middelware using [reference applications with Arduino shields](https://github.com/ReinhardKeil/cmsis-toolbox/blob/main/docs/ReferenceApplications.md#sensor-reference-applications). | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/Sensor-SDK-Example). |
 | [lwIP](https://github.com/Open-CMSIS-Pack/lwIP) | lwIP Network Stack. | . |
-| [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | Shim layers convert STM32HAL to CMSIS-Driver for MDK Middleware. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32). |
 | [NXP_iMXRT105x_MWP](https://github.com/Open-CMSIS-Pack/NXP_iMXRT105x_MWP) | NXP i.MXRT1051/1052 Device Series Middleware examples and CMSIS-Drivers Pack  | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/NXP_iMXRT105x_MWP). |
 | [NXP_IMXRT1050-EVKB_BSP](https://github.com/Open-CMSIS-Pack/NXP_IMXRT1050-EVKB_BSP) | NXP IMXRT1050-EVKB Board Support Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/NXP_IMXRT1050-EVKB_BSP). |
-| [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | STMicroelectronics STM32H7 Series Device Family Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP). |
-| [STM32H743I-Eval_BSP](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP) | STMicroelectronics STM32H743I-Eval Board Support Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP). |
-| [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | STMicroelectronics STM32U5 Series Device Family Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP). |
-| [ST_B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | STMicroelectronics ST_B-U585I-IOT02A Board Support Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP). |
-| [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | STMicroelectronics STM32H7RS Series Device Family Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP). |
-| [STM32H7S78-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7S78-DK_BSP) | STMicroelectronics STM32H7S78-DK Board Support Pack | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/STM32H7S78-DK_BSP). |
 
 ### Tools Source Code
 
