@@ -46,6 +46,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | Repository | Pack Link   | Description  |
 |------------|-------------|--------------|
 | **DFP**    | [keil.arm.com/devices](https://www.keil.arm.com/devices/)  | Device Family Packs | 
+| [STM32C0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32C0xx_DFP) | [keil.arm.com/packs/stm32c0xx_dfp-keil](https://www.keil.arm.com/packs/stm32c0xx_dfp-keil) | STM32C0 Series |
 | [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
 | [STM32L4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L4xx_DFP) | [keil.arm.com/packs/stm32l4xx_dfp-keil](https://www.keil.arm.com/packs/stm32l4xx_dfp-keil) | STM32L4 Series |
 | [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | [keil.arm.com/packs/stm32u5xx_dfp-keil](https://www.keil.arm.com/packs/stm32u5xx_dfp-keil) | STM32U5 Series |
@@ -58,6 +59,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | STM32F4 | . | . |
 | [NUCLEO-F401RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F401RE_BSP) | [keil.arm.com/packs/nucleo-f401re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f401re_bsp-keil) | Nucleo Kit for STM32F401RE Series |
 | [NUCLEO-F412ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F412ZG_BSP) | [keil.arm.com/packs/nucleo-f412zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f412zg_bsp-keil) | Nucleo Kit for STM32F412ZG Series |
+| [NUCLEO-F429ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP) | [keil.arm.com/packs/nucleo-f429zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-f429zi_bsp-keil) | Nucleo Kit for STM32F429ZI Series |
 | [NUCLEO-F446RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP) | [keil.arm.com/packs/nucleo-f446re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f446re_bsp-keil) | Nucleo Kit for STM32F446RE Series |
 | [STM32F469I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F469I-DISCO_BSP) | [keil.arm.com/packs/stm32f469i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f469i-disco_bsp-keil) | Discovery Kit for STM32F469I Series |
 | STM32L4 | . | . |
@@ -67,6 +69,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32L4R9I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-DISCO_BSP) | [keil.arm.com/packs/stm32l4R9i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-disco_bsp-keil) | Discovery Kit for STM32L4R9I Series |
 | STM32U5 | . | . |
 | [B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | [keil.arm.com/packs/b-u585i-iot02a_bsp-keil](https://www.keil.arm.com/packs/b-u585i-iot02a_bsp-keil) | IoT Kit with STM32U585AIIx |
+| [STM32U575I-EV_BSP](https://github.com/Open-CMSIS-Pack/STM32U575I-EV_BSP) | [keil.arm.com/packs/stm32u575i-ev_bsp-keil](https://www.keil.arm.com/packs/stm32u575i-ev_bsp-keil) | Eval Kit for STM32U575I Series |
 | STM32F7 | . | . |
 | [NUCLEO-F746ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP) | [keil.arm.com/packs/nucleo-f746zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f746zg_bsp-keil) | Nucleo Kit for STM32F746ZG Series |
 | [NUCLEO-F756ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F756ZG_BSP) | [keil.arm.com/packs/nucleo-f756zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f756zg_bsp-keil) | Nucleo Kit for STM32F756ZG Series |
