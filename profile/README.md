@@ -53,6 +53,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | [keil.arm.com/packs/stm32h7xx_dfp-keil](https://www.keil.arm.com/packs/stm32h7xx_dfp-keil) | STM32H7 Series |
 | [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | [keil.arm.com/packs/stm32h7rsxx_dfp-keil](https://www.keil.arm.com/packs/stm32h7rsxx_dfp-keil) | STM32H7RS Series |
 | [STM32F7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F7xx_DFP) | [keil.arm.com/packs/stm32f7xx_dfp-keil](https://www.keil.arm.com/packs/stm32f7xx_dfp-keil) | STM32F7 Series |
+| [STM32WLxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WLxx_DFP) | [keil.arm.com/packs/stm32wlxx_dfp-keil](https://www.keil.arm.com/packs/stm32wlxx_dfp-keil) | STM32WL Series |
 | **CMSIS-Driver**    | .  | Add CMSIS-Driver to DFP |
 | [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | [keil.arm.com/packs/cmsis-driver_stm32-arm](https://www.keil.arm.com/packs/cmsis-driver_stm32-arm) | Shim layers: STM32HAL to CMSIS-Driver |
 | **BSP**    | [keil.arm.com/boards](https://www.keil.arm.com/boards/)  | Board Support Packs |
