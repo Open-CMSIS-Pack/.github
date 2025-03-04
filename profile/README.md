@@ -39,6 +39,13 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | [DFP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn) | Explains the steps to create a device family pack. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/DFP-Pack-HandsOn). |
 | [BSP-Pack-HandsOn](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn) | Explains the steps to create a board support pack. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/BSP-Pack-HandsOn). |
 
+### NXP Pack with Project Templates
+
+| Repository | Pack Link   | Description  |
+|------------|-------------|--------------|
+| [NXP_FRDM-MCXN947_BSP](https://github.com/open-cmsis-pack/NXP_FRDM-MCXN947_BSP)  | experimental - use local repository | BSP for NXP_FRDM-MCXN947 |
+
+
 ### STM32 Packs with Generator Support
 
 The following software packs support the [STM32CubeMX integration](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/CubeMX.md) of the CMSIS-Toolbox. These packs are compatible with uVision v5.40 or higher. The packs support Arm Compiler 6, GCC, and IAR. LLVM is not supported due to STM32CubeMX restrictions. Many Board Support Packs contain software layers for [MDK-Middleware](https://www.keil.arm.com/packs/mdk-middleware-keil/overview/); refer to the pack link for more information.
@@ -46,7 +53,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | Repository | Pack Link   | Description  |
 |------------|-------------|--------------|
 | **DFP**    | [keil.arm.com/devices](https://www.keil.arm.com/devices/)  | Device Family Packs |
-| [STM32C0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32C0xx_DFP) | [keil.arm.com/packs/stm32c0xx_dfp-keil](https://www.keil.arm.com/packs/stm32c0xx_dfp-keil) | STM32C0 Series |
+| c | [keil.arm.com/packs/stm32c0xx_dfp-keil](https://www.keil.arm.com/packs/stm32c0xx_dfp-keil) | STM32C0 Series |
 | [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
 | [STM32L4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L4xx_DFP) | [keil.arm.com/packs/stm32l4xx_dfp-keil](https://www.keil.arm.com/packs/stm32l4xx_dfp-keil) | STM32L4 Series |
 | [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | [keil.arm.com/packs/stm32u5xx_dfp-keil](https://www.keil.arm.com/packs/stm32u5xx_dfp-keil) | STM32U5 Series |
