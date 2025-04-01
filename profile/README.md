@@ -67,55 +67,82 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32H5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H5xx_DFP) | [keil.arm.com/packs/stm32h5xx_dfp-keil](https://www.keil.arm.com/packs/stm32h5xx_dfp-keil) | STM32H5 Series |
 | [STM32L5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L5xx_DFP) | [keil.arm.com/packs/stm32l5xx_dfp-keil](https://www.keil.arm.com/packs/stm32l5xx_dfp-keil) | STM32L5 Series |
 | [STM32G4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G4xx_DFP) | [keil.arm.com/packs/stm32g4xx_dfp-keil](https://www.keil.arm.com/packs/stm32g4xx_dfp-keil) | STM32G4 Series |
-| **CMSIS-Driver**    | .  | Add CMSIS-Driver to DFP |
+| [STM32WBxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WBxx_DFP) | [keil.arm.com/packs/stm32wbxx_dfp-keil](https://www.keil.arm.com/packs/stm32wbxx_dfp-keil) | STM32WB Series |
+| [STM32WBAxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WBAxx_DFP) | [keil.arm.com/packs/stm32wbaxx_dfp-keil](https://www.keil.arm.com/packs/stm32wbaxx_dfp-keil) | STM32WBA Series |
+| [STM32WB0x_DFP](https://github.com/Open-CMSIS-Pack/STM32WB0x_DFP) | [keil.arm.com/packs/stm32wb0x_dfp-keil](https://www.keil.arm.com/packs/stm32wb0x_dfp-keil) | STM32WB0 Series |
+| [STM32G0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G0xx_DFP) | [keil.arm.com/packs/stm32g0xx_dfp-keil](https://www.keil.arm.com/packs/stm32g0xx_dfp-keil) | STM32G0 Series |
+| [STM32L0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L0xx_DFP) | [keil.arm.com/packs/stm32l0xx_dfp-keil](https://www.keil.arm.com/packs/stm32l0xx_dfp-keil) | STM32L0 Series |
+| [STM32L1xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L1xx_DFP) | [keil.arm.com/packs/stm32l1xx_dfp-keil](https://www.keil.arm.com/packs/stm32l1xx_dfp-keil) | STM32L1 Series |
+| [STM32F0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F0xx_DFP) | [keil.arm.com/packs/stm32f0xx_dfp-keil](https://www.keil.arm.com/packs/stm32f0xx_dfp-keil) | STM32F0 Series |
+| [STM32F2xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F2xx_DFP) | [keil.arm.com/packs/stm32f2xx_dfp-keil](https://www.keil.arm.com/packs/stm32f2xx_dfp-keil) | STM32F2 Series |
+| [STM32F3xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F3xx_DFP) | [keil.arm.com/packs/stm32f3xx_dfp-keil](https://www.keil.arm.com/packs/stm32f3xx_dfp-keil) | STM32F3 Series |
+| **CMSIS-Driver**    | .  | . |
 | [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | [keil.arm.com/packs/cmsis-driver_stm32-arm](https://www.keil.arm.com/packs/cmsis-driver_stm32-arm) | Shim layers: STM32HAL to CMSIS-Driver |
 | **BSP**    | [keil.arm.com/boards](https://www.keil.arm.com/boards/)  | Board Support Packs |
 | STM32F4 | . | . |
-| [NUCLEO-F401RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F401RE_BSP) | [keil.arm.com/packs/nucleo-f401re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f401re_bsp-keil) | Nucleo Kit for STM32F401RE Series |
-| [NUCLEO-F412ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F412ZG_BSP) | [keil.arm.com/packs/nucleo-f412zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f412zg_bsp-keil) | Nucleo Kit for STM32F412ZG Series |
-| [NUCLEO-F429ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP) | [keil.arm.com/packs/nucleo-f429zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-f429zi_bsp-keil) | Nucleo Kit for STM32F429ZI Series |
-| [NUCLEO-F446RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP) | [keil.arm.com/packs/nucleo-f446re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f446re_bsp-keil) | Nucleo Kit for STM32F446RE Series |
-| [STM32F469I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F469I-DISCO_BSP) | [keil.arm.com/packs/stm32f469i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f469i-disco_bsp-keil) | Discovery Kit for STM32F469I Series |
-| [STM32F407G-DISC1_BSP](https://github.com/Open-CMSIS-Pack/STM32F407G-DISC1_BSP) | [keil.arm.com/packs/stm32f407g-disc1_bsp-keil](https://www.keil.arm.com/packs/stm32f407g-disc1_bsp-keil) | Discovery Kit for STM32F407G Series |
-| [STM32F429I-DISC1_BSP](https://github.com/Open-CMSIS-Pack/STM32F429I-DISC1_BSP) | [keil.arm.com/packs/stm32f429i-disc1_bsp-keil](https://www.keil.arm.com/packs/stm32f429i-disc1_bsp-keil) | Discovery Kit for STM32F429I Series |
+| [NUCLEO-F401RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F401RE_BSP) | [keil.arm.com/packs/nucleo-f401re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f401re_bsp-keil) | Nucleo Kit for STM32F401RE |
+| [NUCLEO-F412ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F412ZG_BSP) | [keil.arm.com/packs/nucleo-f412zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f412zg_bsp-keil) | Nucleo Kit for STM32F412ZG |
+| [NUCLEO-F429ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP) | [keil.arm.com/packs/nucleo-f429zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-f429zi_bsp-keil) | Nucleo Kit for STM32F429ZI |
+| [NUCLEO-F446RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP) | [keil.arm.com/packs/nucleo-f446re_bsp-keil](https://www.keil.arm.com/packs/nucleo-f446re_bsp-keil) | Nucleo Kit for STM32F446RE |
+| [STM32F469I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F469I-DISCO_BSP) | [keil.arm.com/packs/stm32f469i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f469i-disco_bsp-keil) | Discovery Kit for STM32F469I |
+| [STM32F407G-DISC1_BSP](https://github.com/Open-CMSIS-Pack/STM32F407G-DISC1_BSP) | [keil.arm.com/packs/stm32f407g-disc1_bsp-keil](https://www.keil.arm.com/packs/stm32f407g-disc1_bsp-keil) | Discovery Kit for STM32F407G |
+| [STM32F429I-DISC1_BSP](https://github.com/Open-CMSIS-Pack/STM32F429I-DISC1_BSP) | [keil.arm.com/packs/stm32f429i-disc1_bsp-keil](https://www.keil.arm.com/packs/stm32f429i-disc1_bsp-keil) | Discovery Kit for STM32F429I |
 | STM32L4 | . | . |
-| [B-L475E-IOT01A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-L475E-IOT01A_BSP) | [keil.arm.com/packs/b-l475e-iot01a_bsp-keil-keil](https://www.keil.arm.com/packs/b-l475e-iot01a_bsp-keil) | IoT Kit with STM32L475VGTx |
-| [NUCLEO-L476RG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L476RG_BSP) | [keil.arm.com/packs/nucleo-l476rg_bsp-keil](https://www.keil.arm.com/packs/nucleo-l476rg_bsp-keil) | Nucleo Kit for STM32L476RG Series |
-| [STM32L496G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L496G-DISCO_BSP) | [keil.arm.com/packs/stm32l496g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l496g-disco_bsp-keil) | Discovery Kit for STM32L496G Series |
-| [STM32L4R9I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-DISCO_BSP) | [keil.arm.com/packs/stm32l4R9i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-disco_bsp-keil) | Discovery Kit for STM32L4R9I Series |
-| [STM32L4R9I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-EVAL_BSP) | [keil.arm.com/packs/stm32l4R9i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-eval_bsp-keil) | Eval Kit for STM32L4R9I Series |
-| [STM32L476G-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32L476G-EVAL_BSP) | [keil.arm.com/packs/stm32l476g-eval_bsp-keil](https://www.keil.arm.com/packs/stm32l476g-eval_bsp-keil) | Eval Kit for STM32L476G Series |
+| [B-L475E-IOT01A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-L475E-IOT01A_BSP) | [keil.arm.com/packs/b-l475e-iot01a_bsp-keil-keil](https://www.keil.arm.com/packs/b-l475e-iot01a_bsp-keil) | IoT Kit for STM32L475VG |
+| [NUCLEO-L476RG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L476RG_BSP) | [keil.arm.com/packs/nucleo-l476rg_bsp-keil](https://www.keil.arm.com/packs/nucleo-l476rg_bsp-keil) | Nucleo Kit for STM32L476RG |
+| [STM32L496G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L496G-DISCO_BSP) | [keil.arm.com/packs/stm32l496g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l496g-disco_bsp-keil) | Discovery Kit for STM32L496G |
+| [STM32L4R9I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-DISCO_BSP) | [keil.arm.com/packs/stm32l4R9i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-disco_bsp-keil) | Discovery Kit for STM32L4R9I |
+| [STM32L4R9I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32L4R9I-EVAL_BSP) | [keil.arm.com/packs/stm32l4R9i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32l4r9i-eval_bsp-keil) | Eval Kit for STM32L4R9I |
+| [STM32L476G-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32L476G-EVAL_BSP) | [keil.arm.com/packs/stm32l476g-eval_bsp-keil](https://www.keil.arm.com/packs/stm32l476g-eval_bsp-keil) | Eval Kit for STM32L476G |
 | STM32U5 | . | . |
-| [B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | [keil.arm.com/packs/b-u585i-iot02a_bsp-keil](https://www.keil.arm.com/packs/b-u585i-iot02a_bsp-keil) | IoT Kit with STM32U585AIIx |
-| [STM32U575I-EV_BSP](https://github.com/Open-CMSIS-Pack/STM32U575I-EV_BSP) | [keil.arm.com/packs/stm32u575i-ev_bsp-keil](https://www.keil.arm.com/packs/stm32u575i-ev_bsp-keil) | Eval Kit for STM32U575I Series |
+| [B-U585I-IOT02A_BSP](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP) | [keil.arm.com/packs/b-u585i-iot02a_bsp-keil](https://www.keil.arm.com/packs/b-u585i-iot02a_bsp-keil) | IoT Kit for STM32U585AI |
+| [STM32U575I-EV_BSP](https://github.com/Open-CMSIS-Pack/STM32U575I-EV_BSP) | [keil.arm.com/packs/stm32u575i-ev_bsp-keil](https://www.keil.arm.com/packs/stm32u575i-ev_bsp-keil) | Eval Kit for STM32U575I |
 | STM32F7 | . | . |
-| [NUCLEO-F746ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP) | [keil.arm.com/packs/nucleo-f746zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f746zg_bsp-keil) | Nucleo Kit for STM32F746ZG Series |
-| [NUCLEO-F756ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F756ZG_BSP) | [keil.arm.com/packs/nucleo-f756zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f756zg_bsp-keil) | Nucleo Kit for STM32F756ZG Series |
-| [STM32F746G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F746G-DISCO_BSP) | [keil.arm.com/packs/stm32f746g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f746g-disco_bsp-keil) | Discovery Kit for STM32F746G Series |
-| [STM32F769I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-DISCO_BSP) | [keil.arm.com/packs/stm32f769i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-disco_bsp-keil) | Discovery Kit for STM32F769I Series |
-| [STM32F769I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-EVAL_BSP) | [keil.arm.com/packs/stm32f769i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-eval_bsp-keil) | Eval Kit for STM32F769I Series |
+| [NUCLEO-F746ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F746ZG_BSP) | [keil.arm.com/packs/nucleo-f746zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f746zg_bsp-keil) | Nucleo Kit for STM32F746ZG |
+| [NUCLEO-F756ZG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F756ZG_BSP) | [keil.arm.com/packs/nucleo-f756zg_bsp-keil](https://www.keil.arm.com/packs/nucleo-f756zg_bsp-keil) | Nucleo Kit for STM32F756ZG |
+| [STM32F746G-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F746G-DISCO_BSP) | [keil.arm.com/packs/stm32f746g-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f746g-disco_bsp-keil) | Discovery Kit for STM32F746G |
+| [STM32F769I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-DISCO_BSP) | [keil.arm.com/packs/stm32f769i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-disco_bsp-keil) | Discovery Kit for STM32F769I |
+| [STM32F769I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-EVAL_BSP) | [keil.arm.com/packs/stm32f769i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-eval_bsp-keil) | Eval Kit for STM32F769I |
 | STM32H7 | . | . |
-| [NUCLEO-H743ZI2_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H743ZI2_BSP) | [keil.arm.com/packs/nucleo-h743zi2_bsp-keil](https://www.keil.arm.com/packs/nucleo-h743zi2_bsp-keil) | Nucleo Kit for STM32H743ZI Series |
-| [STM32H735G-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H735G-DK_BSP) | [keil.arm.com/packs/stm32h735g-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h735g-dk_bsp-keil) | Discover Kit for STM32H735G Series |
-| [STM32H745I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32H745I-DISCO_BSP) | [keil.arm.com/packs/stm32h745i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32h745i-disco_bsp-keil) | Discover Kit for STM32H745I Series |
-| [STM32H7B3I-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-DK_BSP) | [keil.arm.com/packs/stm32h7b3i-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-dk_bsp-keil) | Discover Kit for STM32H7B3I Series |
-| [STM32H743I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP) | [keil.arm.com/packs/stm32h743i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h743i-eval_bsp-keil) | Eval Kit for STM32H743I Series |
-| [STM32H7B3I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-EVAL_BSP) | [keil.arm.com/packs/stm32h7b3i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-eval_bsp-keil) | Eval Kit for STM32H7B3I Series |
-| [STM32H747I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H747I-EVAL_BSP) | [keil.arm.com/packs/stm32h747i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h747i-eval_bsp-keil) | Eval Kit for STM32H747I Series |
+| [NUCLEO-H743ZI2_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H743ZI2_BSP) | [keil.arm.com/packs/nucleo-h743zi2_bsp-keil](https://www.keil.arm.com/packs/nucleo-h743zi2_bsp-keil) | Nucleo Kit for STM32H743ZI |
+| [STM32H735G-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H735G-DK_BSP) | [keil.arm.com/packs/stm32h735g-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h735g-dk_bsp-keil) | Discover Kit for STM32H735G |
+| [STM32H745I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32H745I-DISCO_BSP) | [keil.arm.com/packs/stm32h745i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32h745i-disco_bsp-keil) | Discover Kit for STM32H745I |
+| [STM32H7B3I-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-DK_BSP) | [keil.arm.com/packs/stm32h7b3i-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-dk_bsp-keil) | Discover Kit for STM32H7B3I |
+| [STM32H743I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP) | [keil.arm.com/packs/stm32h743i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h743i-eval_bsp-keil) | Eval Kit for STM32H743I |
+| [STM32H7B3I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-EVAL_BSP) | [keil.arm.com/packs/stm32h7b3i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-eval_bsp-keil) | Eval Kit for STM32H7B3I |
+| [STM32H747I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H747I-EVAL_BSP) | [keil.arm.com/packs/stm32h747i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h747i-eval_bsp-keil) | Eval Kit for STM32H747I |
 | STM32H5 | . | . |
-| [NUCLEO-H563ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H563ZI_BSP) | [keil.arm.com/packs/nucleo-h563zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-h563zi_bsp-keil) | Nucleo Kit for STM32563ZI Series |
+| [NUCLEO-H563ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H563ZI_BSP) | [keil.arm.com/packs/nucleo-h563zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-h563zi_bsp-keil) | Nucleo Kit for STM32563ZI |
 | STM32G4 | . | . |
-| [STM32G474E-EVAL1_BSP](https://github.com/Open-CMSIS-Pack/STM32G474E-EVAL1_BSP) | [keil.arm.com/packs/stm32g474e-eval1_bsp-keil](https://www.keil.arm.com/packs/stm32g474e-eval1_bsp-keil) | Eval Kit for STM32G474E Series |
-| [NUCLEO-G474RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP) | [keil.arm.com/packs/nucleo-g474RE_bsp-keil](https://www.keil.arm.com/packs/nucleo-g474re_bsp-keil) | Nucleo Kit for STM32G474RE Series |
+| [STM32G474E-EVAL1_BSP](https://github.com/Open-CMSIS-Pack/STM32G474E-EVAL1_BSP) | [keil.arm.com/packs/stm32g474e-eval1_bsp-keil](https://www.keil.arm.com/packs/stm32g474e-eval1_bsp-keil) | Eval Kit for STM32G474E |
+| [NUCLEO-G474RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP) | [keil.arm.com/packs/nucleo-g474RE_bsp-keil](https://www.keil.arm.com/packs/nucleo-g474re_bsp-keil) | Nucleo Kit for STM32G474RE |
 | STM32L5 | . | . |
-| [NUCLEO-L552ZE-Q_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L552ZE-Q_BSP) | [keil.arm.com/packs/nucleo-l552ze-q_bsp-keil](https://www.keil.arm.com/packs/nucleo-l552ze-q_bsp-keil) | Nucleo Kit for STM32L552ZE Series |
-| [STM32L562E-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32L562E-DK_BSP) | [keil.arm.com/packs/stm32l562e-dk_bsp-keil](https://www.keil.arm.com/packs/stm32l562e-dk_bsp-keil) | Discover Kit for STM32L562E Series |
-| [STM32L552E-EV_BSP](https://github.com/Open-CMSIS-Pack/STM32L552E-EV_BSP) | [keil.arm.com/packs/stm32l552e-ev_bsp-keil](https://www.keil.arm.com/packs/stm32l552e-ev_bsp-keil) | Eval Kit for STM32L552E Series |
+| [NUCLEO-L552ZE-Q_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L552ZE-Q_BSP) | [keil.arm.com/packs/nucleo-l552ze-q_bsp-keil](https://www.keil.arm.com/packs/nucleo-l552ze-q_bsp-keil) | Nucleo Kit for STM32L552ZE |
+| [STM32L562E-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32L562E-DK_BSP) | [keil.arm.com/packs/stm32l562e-dk_bsp-keil](https://www.keil.arm.com/packs/stm32l562e-dk_bsp-keil) | Discover Kit for STM32L562E |
+| [STM32L552E-EV_BSP](https://github.com/Open-CMSIS-Pack/STM32L552E-EV_BSP) | [keil.arm.com/packs/stm32l552e-ev_bsp-keil](https://www.keil.arm.com/packs/stm32l552e-ev_bsp-keil) | Eval Kit for STM32L552E |
 | STM32WL | . | . |
-| [NUCLEO-WL55JC_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-WL55JC_BSP) | [keil.arm.com/packs/nucleo-wl55jc_bsp-keil](https://www.keil.arm.com/packs/nucleo-wl55jc_bsp-keil) | Nucleo Kit for STM32WL55 Series |
+| [NUCLEO-WL55JC_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-WL55JC_BSP) | [keil.arm.com/packs/nucleo-wl55jc_bsp-keil](https://www.keil.arm.com/packs/nucleo-wl55jc_bsp-keil) | Nucleo Kit for STM32WL55JC |
 | STM32C0 | . | . |
-| [STM32C0116-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32C0116-DK_BSP) | [keil.arm.com/packs/stm32c0116-dk_bsp-keil](https://www.keil.arm.com/packs/stm32c0116-dk_bsp-keil) | Discovery Kit for STM32C01 Series |
-| [STM32C0316-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32C0316-DK_BSP) | [keil.arm.com/packs/stm32c0316-dk_bsp-keil](https://www.keil.arm.com/packs/stm32c0316-dk_bsp-keil) | Discovery Kit for STM32C03 Series |
+| [STM32C0116-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32C0116-DK_BSP) | [keil.arm.com/packs/stm32c0116-dk_bsp-keil](https://www.keil.arm.com/packs/stm32c0116-dk_bsp-keil) | Discovery Kit for STM32C011F6 |
+| [STM32C0316-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32C0316-DK_BSP) | [keil.arm.com/packs/stm32c0316-dk_bsp-keil](https://www.keil.arm.com/packs/stm32c0316-dk_bsp-keil) | Discovery Kit for STM32C031C6 |
+| STM32WB | . | . |
+| [NUCLEO-WB55RG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-WB55RG_BSP) | [keil.arm.com/packs/nucleo-wb55rg_bsp-keil](https://www.keil.arm.com/packs/nucleo-wb55rg_bsp-keil) | Nucleo Kit for STM32WB55RG |
+| STM32G0 | . | . |
+| [STM32G071B-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32G071B-DISCO_BSP) | [keil.arm.com/packs/stm32g071b-disco_bsp-keil](https://www.keil.arm.com/packs/stm32g071b-disco_bsp-keil) | Discovery Kit for STM32G071B |
+| STM32L0 | . | . |
+| [STM32L0538-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L0538-DISCO_BSP) | [keil.arm.com/packs/stm32l0538-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l0538-disco_bsp-keil) | Discovery Kit for STM32L053C8 |
+| [STM32L073Z-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32L073Z-EVAL_BSP) | [keil.arm.com/packs/stm32l073z-eval_bsp-keil](https://www.keil.arm.com/packs/stm32l073z-eval_bsp-keil) | Eval Kit for STM32L073VZ |
+| [NUCLEO-L053R8_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L053R8_BSP) | [keil.arm.com/packs/nucleo-l053r8_bsp-keil](https://www.keil.arm.com/packs/nucleo-l053r8_bsp-keil) | Nucleo Kit for STM32L053R8 |
+| STM32F0 | . | . |
+| [STM32F0DISCOVERY_BSP](https://github.com/Open-CMSIS-Pack/STM32F0DISCOVERY_BSP) | [keil.arm.com/packs/stm32f0discovery_bsp-keil](https://www.keil.arm.com/packs/stm32f0discovery_bsp-keil) | Discovery Kit for STM32F051R8 |
+| [STM32F072B-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP) | [keil.arm.com/packs/stm32f072b-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f072b-disco_bsp-keil) | Discovery Kit for STM32F072RB |
+| [NUCLEO-F030R8_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F030R8_BSP) | [keil.arm.com/packs/nucleo-f030r8_bsp-keil](https://www.keil.arm.com/packs/nucleo-f030r8_bsp-keil) | Nucleo Kit for STM32F030R8 |
+| [NUCLEO-F072RB_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F072RB_BSP) | [keil.arm.com/packs/nucleo-f072rb_bsp-keil](https://www.keil.arm.com/packs/nucleo-f072rb_bsp-keil) | Nucleo Kit for STM32F072RB |
+| [NUCLEO-F091RC_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F091RC_BSP) | [keil.arm.com/packs/nucleo-f091rc_bsp-keil](https://www.keil.arm.com/packs/nucleo-f091rc_bsp-keil) | Nucleo Kit for STM32F091RC |
+| STM32F3 | . | . |
+| [STM32F3DISCOVERY_BSP](https://github.com/Open-CMSIS-Pack/STM32F3DISCOVERY_BSP) | [keil.arm.com/packs/stm32f3discovery_bsp-keil](https://www.keil.arm.com/packs/stm32f3discovery_bsp-keil) | Discovery Kit for STM32F303VC |
+| [STM32F3348-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F3348-DISCO_BSP) | [keil.arm.com/packs/stm32f3348-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f3348-disco_bsp-keil) | Discovery Kit for STM32F334C8 |
+| [STM32373C-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32373C-EVAL_BSP) | [keil.arm.com/packs/stm32373c-eval_bsp-keil](https://www.keil.arm.com/packs/stm32373c-eval_bsp-keil) | Eval Kit for STM32F373VC |
 
 
 ### More CMSIS Software Pack Examples
