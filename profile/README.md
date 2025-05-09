@@ -129,10 +129,13 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [NUCLEO-WB55RG_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-WB55RG_BSP) | [keil.arm.com/packs/nucleo-wb55rg_bsp-keil](https://www.keil.arm.com/packs/nucleo-wb55rg_bsp-keil) | Nucleo Kit for STM32WB55RG |
 | STM32G0 | . | . |
 | [STM32G071B-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32G071B-DISCO_BSP) | [keil.arm.com/packs/stm32g071b-disco_bsp-keil](https://www.keil.arm.com/packs/stm32g071b-disco_bsp-keil) | Discovery Kit for STM32G071B |
+| [NUCLEO-G0B1RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G0B1RE_BSP) | [keil.arm.com/packs/nucleo-g0b1re_bsp-keil](https://www.keil.arm.com/packs/nucleo-g0b1re_bsp-keil) | Nucleo Kit for STM32G0B1 |
 | STM32L0 | . | . |
 | [STM32L0538-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32L0538-DISCO_BSP) | [keil.arm.com/packs/stm32l0538-disco_bsp-keil](https://www.keil.arm.com/packs/stm32l0538-disco_bsp-keil) | Discovery Kit for STM32L053C8 |
 | [STM32L073Z-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32L073Z-EVAL_BSP) | [keil.arm.com/packs/stm32l073z-eval_bsp-keil](https://www.keil.arm.com/packs/stm32l073z-eval_bsp-keil) | Eval Kit for STM32L073VZ |
 | [NUCLEO-L053R8_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L053R8_BSP) | [keil.arm.com/packs/nucleo-l053r8_bsp-keil](https://www.keil.arm.com/packs/nucleo-l053r8_bsp-keil) | Nucleo Kit for STM32L053R8 |
+| STM32L1 | . | . |
+| [NUCLEO-L152RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L152RE_BSP) | [keil.arm.com/packs/nucleo-l152re_bsp-keil](https://www.keil.arm.com/packs/nucleo-l152re_bsp-keil) | Nucleo Kit for STM32L152RE |
 | STM32F0 | . | . |
 | [STM32F0DISCOVERY_BSP](https://github.com/Open-CMSIS-Pack/STM32F0DISCOVERY_BSP) | [keil.arm.com/packs/stm32f0discovery_bsp-keil](https://www.keil.arm.com/packs/stm32f0discovery_bsp-keil) | Discovery Kit for STM32F051R8 |
 | [STM32F072B-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP) | [keil.arm.com/packs/stm32f072b-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f072b-disco_bsp-keil) | Discovery Kit for STM32F072RB |
@@ -143,6 +146,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32F3DISCOVERY_BSP](https://github.com/Open-CMSIS-Pack/STM32F3DISCOVERY_BSP) | [keil.arm.com/packs/stm32f3discovery_bsp-keil](https://www.keil.arm.com/packs/stm32f3discovery_bsp-keil) | Discovery Kit for STM32F303VC |
 | [STM32F3348-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32F3348-DISCO_BSP) | [keil.arm.com/packs/stm32f3348-disco_bsp-keil](https://www.keil.arm.com/packs/stm32f3348-disco_bsp-keil) | Discovery Kit for STM32F334C8 |
 | [STM32373C-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32373C-EVAL_BSP) | [keil.arm.com/packs/stm32373c-eval_bsp-keil](https://www.keil.arm.com/packs/stm32373c-eval_bsp-keil) | Eval Kit for STM32F373VC |
+| [STM32303E-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32303E-EVAL_BSP) | [keil.arm.com/packs/stm32303e-eval_bsp-keil](https://www.keil.arm.com/packs/stm32303e-eval_bsp-keil) | Eval Kit for STM32F303VE |
 
 
 ### More CMSIS Software Pack Examples
