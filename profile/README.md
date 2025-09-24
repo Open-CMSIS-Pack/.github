@@ -66,6 +66,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32WL3x_DFP](https://github.com/Open-CMSIS-Pack/STM32WL3x_DFP) | [keil.arm.com/packs/stm32wl3x_dfp-keil](https://www.keil.arm.com/packs/stm32wl3x_dfp-keil) | STM32WL3 Series |
 | [STM32N6xx_DFP](https://github.com/Open-CMSIS-Pack/STM32N6xx_DFP) | [keil.arm.com/packs/stm32n6xx_dfp-keil](https://www.keil.arm.com/packs/stm32n6xx_dfp-keil) | STM32N6 Series |
 | [STM32U0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U0xx_DFP) | [keil.arm.com/packs/stm32u0xx_dfp-keil](https://www.keil.arm.com/packs/stm32u0xx_dfp-keil) | STM32U0 Series |
+| [STM32U3xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U3xx_DFP) | [keil.arm.com/packs/stm32u3xx_dfp-keil](https://www.keil.arm.com/packs/stm32u3xx_dfp-keil) | STM32U3 Series |
 | [STM32H5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H5xx_DFP) | [keil.arm.com/packs/stm32h5xx_dfp-keil](https://www.keil.arm.com/packs/stm32h5xx_dfp-keil) | STM32H5 Series |
 | [STM32L5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L5xx_DFP) | [keil.arm.com/packs/stm32l5xx_dfp-keil](https://www.keil.arm.com/packs/stm32l5xx_dfp-keil) | STM32L5 Series |
 | [STM32G4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G4xx_DFP) | [keil.arm.com/packs/stm32g4xx_dfp-keil](https://www.keil.arm.com/packs/stm32g4xx_dfp-keil) | STM32G4 Series |
@@ -107,12 +108,14 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32F769I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32F769I-EVAL_BSP) | [keil.arm.com/packs/stm32f769i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32f769i-eval_bsp-keil) | Eval Kit for STM32F769I |
 | STM32H7 | . | . |
 | [NUCLEO-H743ZI2_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H743ZI2_BSP) | [keil.arm.com/packs/nucleo-h743zi2_bsp-keil](https://www.keil.arm.com/packs/nucleo-h743zi2_bsp-keil) | Nucleo Kit for STM32H743ZI |
-| [STM32H735G-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H735G-DK_BSP) | [keil.arm.com/packs/stm32h735g-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h735g-dk_bsp-keil) | Discover Kit for STM32H735G |
-| [STM32H745I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32H745I-DISCO_BSP) | [keil.arm.com/packs/stm32h745i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32h745i-disco_bsp-keil) | Discover Kit for STM32H745I |
-| [STM32H7B3I-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-DK_BSP) | [keil.arm.com/packs/stm32h7b3i-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-dk_bsp-keil) | Discover Kit for STM32H7B3I |
+| [STM32H735G-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H735G-DK_BSP) | [keil.arm.com/packs/stm32h735g-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h735g-dk_bsp-keil) | Discovery Kit for STM32H735G |
+| [STM32H745I-DISCO_BSP](https://github.com/Open-CMSIS-Pack/STM32H745I-DISCO_BSP) | [keil.arm.com/packs/stm32h745i-disco_bsp-keil](https://www.keil.arm.com/packs/stm32h745i-disco_bsp-keil) | Discovery Kit for STM32H745I |
+| [STM32H7B3I-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-DK_BSP) | [keil.arm.com/packs/stm32h7b3i-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-dk_bsp-keil) | Discovery Kit for STM32H7B3I |
 | [STM32H743I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H743I-EVAL_BSP) | [keil.arm.com/packs/stm32h743i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h743i-eval_bsp-keil) | Eval Kit for STM32H743I |
 | [STM32H7B3I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H7B3I-EVAL_BSP) | [keil.arm.com/packs/stm32h7b3i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h7b3i-eval_bsp-keil) | Eval Kit for STM32H7B3I |
 | [STM32H747I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H747I-EVAL_BSP) | [keil.arm.com/packs/stm32h747i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h747i-eval_bsp-keil) | Eval Kit for STM32H747I |
+| STM32H7RS | . | . |
+| [STM32H7S78-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7S78-DK_BSP) | [keil.arm.com/packs/stm32h7s78-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7s78-dk_bsp-keil) | Discovery Kit for STM32H7S7L8 |
 | STM32H5 | . | . |
 | [NUCLEO-H563ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H563ZI_BSP) | [keil.arm.com/packs/nucleo-h563zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-h563zi_bsp-keil) | Nucleo Kit for STM32563ZI |
 | STM32G4 | . | . |
@@ -120,7 +123,7 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [NUCLEO-G474RE_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP) | [keil.arm.com/packs/nucleo-g474RE_bsp-keil](https://www.keil.arm.com/packs/nucleo-g474re_bsp-keil) | Nucleo Kit for STM32G474RE |
 | STM32L5 | . | . |
 | [NUCLEO-L552ZE-Q_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-L552ZE-Q_BSP) | [keil.arm.com/packs/nucleo-l552ze-q_bsp-keil](https://www.keil.arm.com/packs/nucleo-l552ze-q_bsp-keil) | Nucleo Kit for STM32L552ZE |
-| [STM32L562E-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32L562E-DK_BSP) | [keil.arm.com/packs/stm32l562e-dk_bsp-keil](https://www.keil.arm.com/packs/stm32l562e-dk_bsp-keil) | Discover Kit for STM32L562E |
+| [STM32L562E-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32L562E-DK_BSP) | [keil.arm.com/packs/stm32l562e-dk_bsp-keil](https://www.keil.arm.com/packs/stm32l562e-dk_bsp-keil) | Discovery Kit for STM32L562E |
 | [STM32L552E-EV_BSP](https://github.com/Open-CMSIS-Pack/STM32L552E-EV_BSP) | [keil.arm.com/packs/stm32l552e-ev_bsp-keil](https://www.keil.arm.com/packs/stm32l552e-ev_bsp-keil) | Eval Kit for STM32L552E |
 | STM32WL | . | . |
 | [NUCLEO-WL55JC_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-WL55JC_BSP) | [keil.arm.com/packs/nucleo-wl55jc_bsp-keil](https://www.keil.arm.com/packs/nucleo-wl55jc_bsp-keil) | Nucleo Kit for STM32WL55JC |
