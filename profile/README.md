@@ -116,6 +116,8 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | [STM32H747I-EVAL_BSP](https://github.com/Open-CMSIS-Pack/STM32H747I-EVAL_BSP) | [keil.arm.com/packs/stm32h747i-eval_bsp-keil](https://www.keil.arm.com/packs/stm32h747i-eval_bsp-keil) | Eval Kit for STM32H747I |
 | STM32H7RS | . | . |
 | [STM32H7S78-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32H7S78-DK_BSP) | [keil.arm.com/packs/stm32h7s78-dk_bsp-keil](https://www.keil.arm.com/packs/stm32h7s78-dk_bsp-keil) | Discovery Kit for STM32H7S7L8 |
+| STM32N6 | . | . |
+| [STM32N6570-DK_BSP](https://github.com/Open-CMSIS-Pack/STM32N6570-DK_BSP) | [keil.arm.com/packs/stm32n6570-dk_bsp-keil](https://www.keil.arm.com/packs/stm32n6570-dk_bsp-keil) | Discovery Kit for STM32N6570 |
 | STM32H5 | . | . |
 | [NUCLEO-H563ZI_BSP](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-H563ZI_BSP) | [keil.arm.com/packs/nucleo-h563zi_bsp-keil](https://www.keil.arm.com/packs/nucleo-h563zi_bsp-keil) | Nucleo Kit for STM32563ZI |
 | STM32G4 | . | . |
