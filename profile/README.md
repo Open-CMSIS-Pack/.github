@@ -20,7 +20,7 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 
 | Repository | Description | Documentation |
 |------------|-------------|---------------|
-| [CMSIS-Toolbox](https://github.com/Open-CMSIS-Pack/cmsis-toolbox) | A set of command-line tools for software packs. | The [documentation]([https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/README.md](https://open-cmsis-pack.github.io/cmsis-toolbox/installation) explains the download, installation, and configuration process. |
+| [CMSIS-Toolbox](https://github.com/Open-CMSIS-Pack/cmsis-toolbox) | A set of command-line tools for software packs. | The [documentation](https://open-cmsis-pack.github.io/cmsis-toolbox/installation) explains the download, installation, and configuration process. |
 | [CMSIS Solution](https://github.com/Open-CMSIS-Pack/vscode-cmsis-solution) | A VS Code extension for project management and build based on the CMSIS-Toolbox. | The [documentation](https://github.com/Open-CMSIS-Pack/vscode-cmsis-solution/blob/main/README.md) provides an overview of features and usage. |
 | [CMSIS Debugger](https://github.com/Open-CMSIS-Pack/vscode-cmsis-debugger) | A VS Code extension pack to enable debugging Arm Cortex-M processor-based devices using the GDB/MI protocol. | The [documentation](https://github.com/Open-CMSIS-Pack/vscode-cmsis-debugger/blob/main/README.md) provides an overview of features and usage. |
 | [gen-pack](https://github.com/Open-CMSIS-Pack/gen-pack) | A library for scripts creating Open-CMSIS-Packs. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/gen-pack) file. |
