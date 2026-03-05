@@ -21,9 +21,10 @@ The Open-CMSIS-Pack project offers a flexible and easy to use end to end develop
 | Repository | Description | Documentation |
 |------------|-------------|---------------|
 | [CMSIS-Toolbox](https://github.com/Open-CMSIS-Pack/cmsis-toolbox) | A set of command-line tools for software packs. | The [documentation](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/README.md) explains the download, installation, and configuration process. |
+| [CMSIS Solution](https://github.com/Open-CMSIS-Pack/vscode-cmsis-solution) | A VS Code extension for project management and build based on the CMSIS-Toolbox. | The [documentation](https://github.com/Open-CMSIS-Pack/vscode-cmsis-solution/blob/main/docs/README.md) provides an overview of features and usage. |
+| [CMSIS Debugger](https://github.com/Open-CMSIS-Pack/vscode-cmsis-debugger) | A VS Code extension pack to enable debugging Arm Cortex-M processor-based devices using the GDB/MI protocol. | The [documentation](https://github.com/Open-CMSIS-Pack/vscode-cmsis-debugger/blob/main/docs/README.md) provides an overview of features and usage. |
 | [gen-pack](https://github.com/Open-CMSIS-Pack/gen-pack) | A library for scripts creating Open-CMSIS-Packs. | Refer to the [Readme.md](https://github.com/Open-CMSIS-Pack/gen-pack) file. |
 | [gen-pack-action](https://github.com/Open-CMSIS-Pack/gen-pack-action) | A GitHub workflow action generating documentation and Open-CMSIS-Packs. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/gen-pack-action). |
-| [vidx2pidx](https://github.com/Open-CMSIS-Pack/vidx2pidx) | A package index generator. | Refer to [Readme.md](https://github.com/Open-CMSIS-Pack/vidx2pidx). |
 
 ### CMSIS-Toolbox Project Examples (*csolution projects*)
 
@@ -57,28 +58,28 @@ The following software packs support the [STM32CubeMX integration](https://githu
 | **DFP**    | [keil.arm.com/devices](https://www.keil.arm.com/devices/)  | Device Family Packs |
 | [STM32C0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32C0xx_DFP) | [keil.arm.com/packs/stm32c0xx_dfp-keil](https://www.keil.arm.com/packs/stm32c0xx_dfp-keil) | STM32C0 Series |
 | [STM32F4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F4xx_DFP) | [keil.arm.com/packs/stm32f4xx_dfp-keil](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil) | STM32F4 Series |
-| [STM32L4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L4xx_DFP) | [keil.arm.com/packs/stm32l4xx_dfp-keil](https://www.keil.arm.com/packs/stm32l4xx_dfp-keil) | STM32L4 Series |
-| [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | [keil.arm.com/packs/stm32u5xx_dfp-keil](https://www.keil.arm.com/packs/stm32u5xx_dfp-keil) | STM32U5 Series |
-| [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | [keil.arm.com/packs/stm32h7xx_dfp-keil](https://www.keil.arm.com/packs/stm32h7xx_dfp-keil) | STM32H7 Series |
-| [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | [keil.arm.com/packs/stm32h7rsxx_dfp-keil](https://www.keil.arm.com/packs/stm32h7rsxx_dfp-keil) | STM32H7RS Series |
-| [STM32F7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F7xx_DFP) | [keil.arm.com/packs/stm32f7xx_dfp-keil](https://www.keil.arm.com/packs/stm32f7xx_dfp-keil) | STM32F7 Series |
-| [STM32WLxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WLxx_DFP) | [keil.arm.com/packs/stm32wlxx_dfp-keil](https://www.keil.arm.com/packs/stm32wlxx_dfp-keil) | STM32WL Series |
-| [STM32WL3x_DFP](https://github.com/Open-CMSIS-Pack/STM32WL3x_DFP) | [keil.arm.com/packs/stm32wl3x_dfp-keil](https://www.keil.arm.com/packs/stm32wl3x_dfp-keil) | STM32WL3 Series |
-| [STM32N6xx_DFP](https://github.com/Open-CMSIS-Pack/STM32N6xx_DFP) | [keil.arm.com/packs/stm32n6xx_dfp-keil](https://www.keil.arm.com/packs/stm32n6xx_dfp-keil) | STM32N6 Series |
-| [STM32U0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U0xx_DFP) | [keil.arm.com/packs/stm32u0xx_dfp-keil](https://www.keil.arm.com/packs/stm32u0xx_dfp-keil) | STM32U0 Series |
-| [STM32U3xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U3xx_DFP) | [keil.arm.com/packs/stm32u3xx_dfp-keil](https://www.keil.arm.com/packs/stm32u3xx_dfp-keil) | STM32U3 Series |
-| [STM32H5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H5xx_DFP) | [keil.arm.com/packs/stm32h5xx_dfp-keil](https://www.keil.arm.com/packs/stm32h5xx_dfp-keil) | STM32H5 Series |
-| [STM32L5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L5xx_DFP) | [keil.arm.com/packs/stm32l5xx_dfp-keil](https://www.keil.arm.com/packs/stm32l5xx_dfp-keil) | STM32L5 Series |
-| [STM32G4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G4xx_DFP) | [keil.arm.com/packs/stm32g4xx_dfp-keil](https://www.keil.arm.com/packs/stm32g4xx_dfp-keil) | STM32G4 Series |
-| [STM32WBxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WBxx_DFP) | [keil.arm.com/packs/stm32wbxx_dfp-keil](https://www.keil.arm.com/packs/stm32wbxx_dfp-keil) | STM32WB Series |
-| [STM32WBAxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WBAxx_DFP) | [keil.arm.com/packs/stm32wbaxx_dfp-keil](https://www.keil.arm.com/packs/stm32wbaxx_dfp-keil) | STM32WBA Series |
-| [STM32WB0x_DFP](https://github.com/Open-CMSIS-Pack/STM32WB0x_DFP) | [keil.arm.com/packs/stm32wb0x_dfp-keil](https://www.keil.arm.com/packs/stm32wb0x_dfp-keil) | STM32WB0 Series |
-| [STM32G0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G0xx_DFP) | [keil.arm.com/packs/stm32g0xx_dfp-keil](https://www.keil.arm.com/packs/stm32g0xx_dfp-keil) | STM32G0 Series |
-| [STM32L0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L0xx_DFP) | [keil.arm.com/packs/stm32l0xx_dfp-keil](https://www.keil.arm.com/packs/stm32l0xx_dfp-keil) | STM32L0 Series |
-| [STM32L1xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L1xx_DFP) | [keil.arm.com/packs/stm32l1xx_dfp-keil](https://www.keil.arm.com/packs/stm32l1xx_dfp-keil) | STM32L1 Series |
 | [STM32F0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F0xx_DFP) | [keil.arm.com/packs/stm32f0xx_dfp-keil](https://www.keil.arm.com/packs/stm32f0xx_dfp-keil) | STM32F0 Series |
 | [STM32F2xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F2xx_DFP) | [keil.arm.com/packs/stm32f2xx_dfp-keil](https://www.keil.arm.com/packs/stm32f2xx_dfp-keil) | STM32F2 Series |
 | [STM32F3xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F3xx_DFP) | [keil.arm.com/packs/stm32f3xx_dfp-keil](https://www.keil.arm.com/packs/stm32f3xx_dfp-keil) | STM32F3 Series |
+| [STM32F7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32F7xx_DFP) | [keil.arm.com/packs/stm32f7xx_dfp-keil](https://www.keil.arm.com/packs/stm32f7xx_dfp-keil) | STM32F7 Series |
+| [STM32G0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G0xx_DFP) | [keil.arm.com/packs/stm32g0xx_dfp-keil](https://www.keil.arm.com/packs/stm32g0xx_dfp-keil) | STM32G0 Series |
+| [STM32G4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32G4xx_DFP) | [keil.arm.com/packs/stm32g4xx_dfp-keil](https://www.keil.arm.com/packs/stm32g4xx_dfp-keil) | STM32G4 Series |
+| [STM32H5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H5xx_DFP) | [keil.arm.com/packs/stm32h5xx_dfp-keil](https://www.keil.arm.com/packs/stm32h5xx_dfp-keil) | STM32H5 Series |
+| [STM32H7xx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7xx_DFP) | [keil.arm.com/packs/stm32h7xx_dfp-keil](https://www.keil.arm.com/packs/stm32h7xx_dfp-keil) | STM32H7 Series |
+| [STM32H7RSxx_DFP](https://github.com/Open-CMSIS-Pack/STM32H7RSxx_DFP) | [keil.arm.com/packs/stm32h7rsxx_dfp-keil](https://www.keil.arm.com/packs/stm32h7rsxx_dfp-keil) | STM32H7RS Series |
+| [STM32L0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L0xx_DFP) | [keil.arm.com/packs/stm32l0xx_dfp-keil](https://www.keil.arm.com/packs/stm32l0xx_dfp-keil) | STM32L0 Series |
+| [STM32L1xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L1xx_DFP) | [keil.arm.com/packs/stm32l1xx_dfp-keil](https://www.keil.arm.com/packs/stm32l1xx_dfp-keil) | STM32L1 Series |
+| [STM32L4xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L4xx_DFP) | [keil.arm.com/packs/stm32l4xx_dfp-keil](https://www.keil.arm.com/packs/stm32l4xx_dfp-keil) | STM32L4 Series |
+| [STM32L5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32L5xx_DFP) | [keil.arm.com/packs/stm32l5xx_dfp-keil](https://www.keil.arm.com/packs/stm32l5xx_dfp-keil) | STM32L5 Series |
+| [STM32N6xx_DFP](https://github.com/Open-CMSIS-Pack/STM32N6xx_DFP) | [keil.arm.com/packs/stm32n6xx_dfp-keil](https://www.keil.arm.com/packs/stm32n6xx_dfp-keil) | STM32N6 Series |
+| [STM32U0xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U0xx_DFP) | [keil.arm.com/packs/stm32u0xx_dfp-keil](https://www.keil.arm.com/packs/stm32u0xx_dfp-keil) | STM32U0 Series |
+| [STM32U3xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U3xx_DFP) | [keil.arm.com/packs/stm32u3xx_dfp-keil](https://www.keil.arm.com/packs/stm32u3xx_dfp-keil) | STM32U3 Series |
+| [STM32U5xx_DFP](https://github.com/Open-CMSIS-Pack/STM32U5xx_DFP) | [keil.arm.com/packs/stm32u5xx_dfp-keil](https://www.keil.arm.com/packs/stm32u5xx_dfp-keil) | STM32U5 Series |
+| [STM32WBxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WBxx_DFP) | [keil.arm.com/packs/stm32wbxx_dfp-keil](https://www.keil.arm.com/packs/stm32wbxx_dfp-keil) | STM32WB Series |
+| [STM32WBAxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WBAxx_DFP) | [keil.arm.com/packs/stm32wbaxx_dfp-keil](https://www.keil.arm.com/packs/stm32wbaxx_dfp-keil) | STM32WBA Series |
+| [STM32WB0x_DFP](https://github.com/Open-CMSIS-Pack/STM32WB0x_DFP) | [keil.arm.com/packs/stm32wb0x_dfp-keil](https://www.keil.arm.com/packs/stm32wb0x_dfp-keil) | STM32WB0 Series |
+| [STM32WLxx_DFP](https://github.com/Open-CMSIS-Pack/STM32WLxx_DFP) | [keil.arm.com/packs/stm32wlxx_dfp-keil](https://www.keil.arm.com/packs/stm32wlxx_dfp-keil) | STM32WL Series |
+| [STM32WL3x_DFP](https://github.com/Open-CMSIS-Pack/STM32WL3x_DFP) | [keil.arm.com/packs/stm32wl3x_dfp-keil](https://www.keil.arm.com/packs/stm32wl3x_dfp-keil) | STM32WL3 Series |
 | **CMSIS-Driver**    | .  | . |
 | [CMSIS-Driver_STM32](https://github.com/Open-CMSIS-Pack/CMSIS-Driver_STM32) | [keil.arm.com/packs/cmsis-driver_stm32-arm](https://www.keil.arm.com/packs/cmsis-driver_stm32-arm) | Shim layers: STM32HAL to CMSIS-Driver |
 | **BSP**    | [keil.arm.com/boards](https://www.keil.arm.com/boards/)  | Board Support Packs |
